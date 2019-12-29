@@ -9,7 +9,7 @@
     <artifactId>Flink</artifactId>
     <inceptionYear>2008</inceptionYear>
     <properties>
-        <scala.version>2.11.8</scala.version>
+        <scala.version>2.13.1</scala.version>
         <flink.version>1.7.2</flink.version>
     </properties>
 
