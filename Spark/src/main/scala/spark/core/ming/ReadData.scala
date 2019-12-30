@@ -4,7 +4,7 @@ import java.sql.DriverManager
 
 import org.apache.spark.rdd.JdbcRDD
 import org.apache.spark.{SparkConf, SparkContext}
-
+import scala.util.parsing.json.JSON
 /**
   * 读取数据并生成RDD
   */
