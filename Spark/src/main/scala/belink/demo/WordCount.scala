@@ -1,8 +1,8 @@
 package belink.demo
 
+import ming.hbase.client.HbaseClient
 import org.apache.kafka.clients.consumer.ConsumerConfig
 import org.apache.kafka.common.serialization.StringDeserializer
-
 import org.apache.spark.SparkConf
 import org.apache.spark.streaming._
 import org.apache.spark.streaming.kafka010._
@@ -50,13 +50,18 @@ object WordCount {
     val result = hdfsResult
       .join(kafkaResult)
         .map(t => {
-          t._1 + ":[HDFS]" + t._2._1 + ",[kafka]" + t._2._2
+          t._1 + "," + t._2._1 + "," + t._2._2
         })
 
     // 写入HBase
     result.foreachRDD(rdd => {
       rdd.foreachPartition(iter => {
-        iter.foreach(println _)
+        val tableName = "WordCount"
+        iter.foreach(line => {
+          val Array(word, v1, v2) = line.split(",")
+          HbaseClient.putData(tableName, word, "count", "HDFS", v1)
+          HbaseClient.putData(tableName, word, "count", "kafka", v2)
+        })
       })
     })
 
