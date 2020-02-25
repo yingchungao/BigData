@@ -2,10 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c490155-4ce0-4630-81c6-c285d3db9046" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/HDFSCount.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flink/target/Flink-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Flink/target/Flink-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flink/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Flink/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spark/target/Spark-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Spark/target/Spark-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spark/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spark/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/RDDdemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/Yaxin$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/Yaxin$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/Yaxin$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/Yaxin$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/Yaxin$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/Yaxin$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/spark/core/Yaxin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/FlumeDemo$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/FlumeDemo$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/FlumeDemo$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/FlumeDemo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/FlumeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingDemo$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingDemo$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingDemo$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingDemo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingWordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingWordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingWordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingWordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ming/shui/demo/streaming/StreamingWordCount.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,12 +59,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="WordCount.scala" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WordCount.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/ming/ynet/demo/WordCount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+            <state relative-caret-position="2079">
+              <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
               <folding>
                 <element signature="e#28#68#0" expanded="true" />
               </folding>
@@ -32,10 +72,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="HDFSCount.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/HDFSCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="e#23#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCount.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/WordCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
+            <state relative-caret-position="59268">
               <caret line="1796" column="34" selection-start-line="1796" selection-start-column="34" selection-end-line="1796" selection-end-column="34" />
             </state>
           </provider>
@@ -44,8 +105,17 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spark/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="106" column="17" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
+            <state relative-caret-position="2937">
+              <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HbaseClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spark/src/main/java/com/ming/hbase/client/HbaseClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -120,9 +190,10 @@
         <option value="$PROJECT_DIR$/Spark/src/main/scala/ming/ynet/demo/WordCount.scala" />
         <option value="$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/ChecksumAccumulator.scala" />
         <option value="$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/HelloWorld.scala" />
-        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/ming/ynet/demo/WordCount.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Spark/pom.xml" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/ming/ynet/demo/WordCount.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/HDFSCount.scala" />
       </list>
     </option>
   </component>
@@ -139,7 +210,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -154,8 +225,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,24 +300,19 @@
               <item name="Spark" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BigData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigData" type="462c0819:PsiDirectoryNode" />
-              <item name="Spark" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560822914737" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spark-2.4.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../d/geek-dmp-api" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -450,62 +514,48 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32997987" />
+      <window_info id="DB Browser" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32956153" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23196605" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20792079" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34229138" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23525469" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24865952" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info anchor="bottom" id="Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="right" id="GeekHub" order="11" side_tool="true" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23525469" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27157003" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32956153" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32997987" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23196605" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.47241867" />
       <window_info anchor="right" id="Geek &amp; Poke" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.47241867" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="GeekHub" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Maven" order="3" />
@@ -513,13 +563,13 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="GeekHub" order="11" side_tool="true" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30769232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23196605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21216407" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27157003" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -530,8 +580,8 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32956153" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23190348" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.4734561" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23525469" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.47241867" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32997987" />
@@ -559,13 +609,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="pom" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Flink/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2442">
-          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spark/src/main/java/domain/DailyMemberTags.java" />
     <entry file="file://$PROJECT_DIR$/Spark/src/main/java/domain/DailyMemberTags.scala" />
     <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/ming/shui/demo/TestSpark.scala" />
@@ -750,33 +793,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
-          <folding>
-            <element signature="e#25#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/examples/SparkPi.scala" />
     <entry file="file://$PROJECT_DIR$/Spark/src/main/java/com/ming/util/Property.java" />
-    <entry file="file://$PROJECT_DIR$/Spark/src/main/java/com/ming/hbase/client/HbaseClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="79" column="51" selection-start-line="79" selection-start-column="51" selection-end-line="79" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spark/src/main/java/com/geek/dmp/paartner/analysis/Hecming.java" />
     <entry file="file://$PROJECT_DIR$/Spark/src/main/java/com/geek/dmp/paartner/analysis/Num.java" />
-    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-825">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/ming/spark/core/ReadData.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -807,25 +830,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
+        <state relative-caret-position="59268">
           <caret line="1796" column="34" selection-start-line="1796" selection-start-column="34" selection-end-line="1796" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spark/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="106" column="17" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
+        <state relative-caret-position="132">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/ming/demo/HDFSCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#23#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/ming/ynet/demo/WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        <state relative-caret-position="2079">
+          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
           <folding>
             <element signature="e#28#68#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2937">
+          <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/java/com/ming/hbase/client/HbaseClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
         </state>
       </provider>
     </entry>
