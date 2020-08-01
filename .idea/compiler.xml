@@ -6,9 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Flink" />
         <module name="Spark" />
+        <module name="kraps-rpc" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Flink" target="1.8" />
+      <module name="Ynet" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

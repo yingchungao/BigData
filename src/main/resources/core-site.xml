@@ -1,0 +1,10 @@
+<configuration>
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://192.168.65.239:8020</value>
+    </property>
+    <property>
+        <name>hadoop.tmp.dir</name>
+        <value>hdfs://192.168.65.239:8020/hadoop/tmp</value>
+    </property>
+</configuration>
